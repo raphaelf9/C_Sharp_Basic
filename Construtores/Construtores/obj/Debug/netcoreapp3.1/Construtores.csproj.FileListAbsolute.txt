@@ -1,0 +1,14 @@
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.exe
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.deps.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.dev.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.AssemblyReference.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfoInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfo.cs
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.genruntimeconfig.cache
