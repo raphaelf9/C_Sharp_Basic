@@ -1,0 +1,14 @@
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Upcasting_Downcasting\Upcasting_Downcasting\bin\Debug\netcoreapp3.1\Upcasting_Downcasting.exe
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Upcasting_Downcasting\Upcasting_Downcasting\bin\Debug\netcoreapp3.1\Upcasting_Downcasting.deps.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Upcasting_Downcasting\Upcasting_Downcasting\bin\Debug\netcoreapp3.1\Upcasting_Downcasting.runtimeconfig.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Upcasting_Downcasting\Upcasting_Downcasting\bin\Debug\netcoreapp3.1\Upcasting_Downcasting.runtimeconfig.dev.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Upcasting_Downcasting\Upcasting_Downcasting\bin\Debug\netcoreapp3.1\Upcasting_Downcasting.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Upcasting_Downcasting\Upcasting_Downcasting\bin\Debug\netcoreapp3.1\Upcasting_Downcasting.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Upcasting_Downcasting\Upcasting_Downcasting\obj\Debug\netcoreapp3.1\Upcasting_Downcasting.csproj.AssemblyReference.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Upcasting_Downcasting\Upcasting_Downcasting\obj\Debug\netcoreapp3.1\Upcasting_Downcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Upcasting_Downcasting\Upcasting_Downcasting\obj\Debug\netcoreapp3.1\Upcasting_Downcasting.AssemblyInfoInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Upcasting_Downcasting\Upcasting_Downcasting\obj\Debug\netcoreapp3.1\Upcasting_Downcasting.AssemblyInfo.cs
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Upcasting_Downcasting\Upcasting_Downcasting\obj\Debug\netcoreapp3.1\Upcasting_Downcasting.csproj.CoreCompileInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Upcasting_Downcasting\Upcasting_Downcasting\obj\Debug\netcoreapp3.1\Upcasting_Downcasting.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Upcasting_Downcasting\Upcasting_Downcasting\obj\Debug\netcoreapp3.1\Upcasting_Downcasting.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Upcasting_Downcasting\Upcasting_Downcasting\obj\Debug\netcoreapp3.1\Upcasting_Downcasting.genruntimeconfig.cache
