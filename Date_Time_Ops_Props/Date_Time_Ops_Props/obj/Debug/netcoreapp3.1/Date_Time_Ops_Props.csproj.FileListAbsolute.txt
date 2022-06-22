@@ -1,0 +1,14 @@
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_Ops_Props\Date_Time_Ops_Props\bin\Debug\netcoreapp3.1\Date_Time_Ops_Props.exe
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_Ops_Props\Date_Time_Ops_Props\bin\Debug\netcoreapp3.1\Date_Time_Ops_Props.deps.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_Ops_Props\Date_Time_Ops_Props\bin\Debug\netcoreapp3.1\Date_Time_Ops_Props.runtimeconfig.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_Ops_Props\Date_Time_Ops_Props\bin\Debug\netcoreapp3.1\Date_Time_Ops_Props.runtimeconfig.dev.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_Ops_Props\Date_Time_Ops_Props\bin\Debug\netcoreapp3.1\Date_Time_Ops_Props.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_Ops_Props\Date_Time_Ops_Props\bin\Debug\netcoreapp3.1\Date_Time_Ops_Props.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_Ops_Props\Date_Time_Ops_Props\obj\Debug\netcoreapp3.1\Date_Time_Ops_Props.csproj.AssemblyReference.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_Ops_Props\Date_Time_Ops_Props\obj\Debug\netcoreapp3.1\Date_Time_Ops_Props.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_Ops_Props\Date_Time_Ops_Props\obj\Debug\netcoreapp3.1\Date_Time_Ops_Props.AssemblyInfoInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_Ops_Props\Date_Time_Ops_Props\obj\Debug\netcoreapp3.1\Date_Time_Ops_Props.AssemblyInfo.cs
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_Ops_Props\Date_Time_Ops_Props\obj\Debug\netcoreapp3.1\Date_Time_Ops_Props.csproj.CoreCompileInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_Ops_Props\Date_Time_Ops_Props\obj\Debug\netcoreapp3.1\Date_Time_Ops_Props.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_Ops_Props\Date_Time_Ops_Props\obj\Debug\netcoreapp3.1\Date_Time_Ops_Props.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_Ops_Props\Date_Time_Ops_Props\obj\Debug\netcoreapp3.1\Date_Time_Ops_Props.genruntimeconfig.cache
