@@ -1,0 +1,14 @@
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\ConsultaDepartamento\ConsultaDepartamento\bin\Debug\netcoreapp3.1\ConsultaDepartamento.exe
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\ConsultaDepartamento\ConsultaDepartamento\bin\Debug\netcoreapp3.1\ConsultaDepartamento.deps.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\ConsultaDepartamento\ConsultaDepartamento\bin\Debug\netcoreapp3.1\ConsultaDepartamento.runtimeconfig.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\ConsultaDepartamento\ConsultaDepartamento\bin\Debug\netcoreapp3.1\ConsultaDepartamento.runtimeconfig.dev.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\ConsultaDepartamento\ConsultaDepartamento\bin\Debug\netcoreapp3.1\ConsultaDepartamento.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\ConsultaDepartamento\ConsultaDepartamento\bin\Debug\netcoreapp3.1\ConsultaDepartamento.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\ConsultaDepartamento\ConsultaDepartamento\obj\Debug\netcoreapp3.1\ConsultaDepartamento.csproj.AssemblyReference.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\ConsultaDepartamento\ConsultaDepartamento\obj\Debug\netcoreapp3.1\ConsultaDepartamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\ConsultaDepartamento\ConsultaDepartamento\obj\Debug\netcoreapp3.1\ConsultaDepartamento.AssemblyInfoInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\ConsultaDepartamento\ConsultaDepartamento\obj\Debug\netcoreapp3.1\ConsultaDepartamento.AssemblyInfo.cs
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\ConsultaDepartamento\ConsultaDepartamento\obj\Debug\netcoreapp3.1\ConsultaDepartamento.csproj.CoreCompileInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\ConsultaDepartamento\ConsultaDepartamento\obj\Debug\netcoreapp3.1\ConsultaDepartamento.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\ConsultaDepartamento\ConsultaDepartamento\obj\Debug\netcoreapp3.1\ConsultaDepartamento.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\ConsultaDepartamento\ConsultaDepartamento\obj\Debug\netcoreapp3.1\ConsultaDepartamento.genruntimeconfig.cache
