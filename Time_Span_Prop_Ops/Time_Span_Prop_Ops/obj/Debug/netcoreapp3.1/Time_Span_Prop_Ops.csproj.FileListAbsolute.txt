@@ -1,0 +1,14 @@
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_Prop_Ops\Time_Span_Prop_Ops\bin\Debug\netcoreapp3.1\Time_Span_Prop_Ops.exe
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_Prop_Ops\Time_Span_Prop_Ops\bin\Debug\netcoreapp3.1\Time_Span_Prop_Ops.deps.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_Prop_Ops\Time_Span_Prop_Ops\bin\Debug\netcoreapp3.1\Time_Span_Prop_Ops.runtimeconfig.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_Prop_Ops\Time_Span_Prop_Ops\bin\Debug\netcoreapp3.1\Time_Span_Prop_Ops.runtimeconfig.dev.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_Prop_Ops\Time_Span_Prop_Ops\bin\Debug\netcoreapp3.1\Time_Span_Prop_Ops.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_Prop_Ops\Time_Span_Prop_Ops\bin\Debug\netcoreapp3.1\Time_Span_Prop_Ops.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_Prop_Ops\Time_Span_Prop_Ops\obj\Debug\netcoreapp3.1\Time_Span_Prop_Ops.csproj.AssemblyReference.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_Prop_Ops\Time_Span_Prop_Ops\obj\Debug\netcoreapp3.1\Time_Span_Prop_Ops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_Prop_Ops\Time_Span_Prop_Ops\obj\Debug\netcoreapp3.1\Time_Span_Prop_Ops.AssemblyInfoInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_Prop_Ops\Time_Span_Prop_Ops\obj\Debug\netcoreapp3.1\Time_Span_Prop_Ops.AssemblyInfo.cs
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_Prop_Ops\Time_Span_Prop_Ops\obj\Debug\netcoreapp3.1\Time_Span_Prop_Ops.csproj.CoreCompileInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_Prop_Ops\Time_Span_Prop_Ops\obj\Debug\netcoreapp3.1\Time_Span_Prop_Ops.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_Prop_Ops\Time_Span_Prop_Ops\obj\Debug\netcoreapp3.1\Time_Span_Prop_Ops.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_Prop_Ops\Time_Span_Prop_Ops\obj\Debug\netcoreapp3.1\Time_Span_Prop_Ops.genruntimeconfig.cache
