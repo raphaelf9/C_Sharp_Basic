@@ -1,0 +1,14 @@
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_\Time_Span_\bin\Debug\netcoreapp3.1\Time_Span_.exe
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_\Time_Span_\bin\Debug\netcoreapp3.1\Time_Span_.deps.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_\Time_Span_\bin\Debug\netcoreapp3.1\Time_Span_.runtimeconfig.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_\Time_Span_\bin\Debug\netcoreapp3.1\Time_Span_.runtimeconfig.dev.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_\Time_Span_\bin\Debug\netcoreapp3.1\Time_Span_.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_\Time_Span_\bin\Debug\netcoreapp3.1\Time_Span_.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_\Time_Span_\obj\Debug\netcoreapp3.1\Time_Span_.csproj.AssemblyReference.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_\Time_Span_\obj\Debug\netcoreapp3.1\Time_Span_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_\Time_Span_\obj\Debug\netcoreapp3.1\Time_Span_.AssemblyInfoInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_\Time_Span_\obj\Debug\netcoreapp3.1\Time_Span_.AssemblyInfo.cs
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_\Time_Span_\obj\Debug\netcoreapp3.1\Time_Span_.csproj.CoreCompileInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_\Time_Span_\obj\Debug\netcoreapp3.1\Time_Span_.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_\Time_Span_\obj\Debug\netcoreapp3.1\Time_Span_.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Time_Span_\Time_Span_\obj\Debug\netcoreapp3.1\Time_Span_.genruntimeconfig.cache
