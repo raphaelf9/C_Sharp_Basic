@@ -1,0 +1,13 @@
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.exe
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.deps.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.runtimeconfig.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.runtimeconfig.dev.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Sobrecarga\Sobrecarga\bin\Debug\netcoreapp3.1\Sobrecarga.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.AssemblyInfo.cs
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Sobrecarga\Sobrecarga\obj\Debug\netcoreapp3.1\Sobrecarga.genruntimeconfig.cache
