@@ -1,0 +1,14 @@
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_\Date_Time_\bin\Debug\netcoreapp3.1\Date_Time_.exe
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_\Date_Time_\bin\Debug\netcoreapp3.1\Date_Time_.deps.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_\Date_Time_\bin\Debug\netcoreapp3.1\Date_Time_.runtimeconfig.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_\Date_Time_\bin\Debug\netcoreapp3.1\Date_Time_.runtimeconfig.dev.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_\Date_Time_\bin\Debug\netcoreapp3.1\Date_Time_.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_\Date_Time_\bin\Debug\netcoreapp3.1\Date_Time_.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_\Date_Time_\obj\Debug\netcoreapp3.1\Date_Time_.csproj.AssemblyReference.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_\Date_Time_\obj\Debug\netcoreapp3.1\Date_Time_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_\Date_Time_\obj\Debug\netcoreapp3.1\Date_Time_.AssemblyInfoInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_\Date_Time_\obj\Debug\netcoreapp3.1\Date_Time_.AssemblyInfo.cs
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_\Date_Time_\obj\Debug\netcoreapp3.1\Date_Time_.csproj.CoreCompileInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_\Date_Time_\obj\Debug\netcoreapp3.1\Date_Time_.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_\Date_Time_\obj\Debug\netcoreapp3.1\Date_Time_.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\Date_Time_\Date_Time_\obj\Debug\netcoreapp3.1\Date_Time_.genruntimeconfig.cache
