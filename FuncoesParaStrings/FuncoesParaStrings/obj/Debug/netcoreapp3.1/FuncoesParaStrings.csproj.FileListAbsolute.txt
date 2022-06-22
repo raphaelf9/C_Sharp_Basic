@@ -1,0 +1,13 @@
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\FuncoesParaStrings\FuncoesParaStrings\bin\Debug\netcoreapp3.1\FuncoesParaStrings.exe
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\FuncoesParaStrings\FuncoesParaStrings\bin\Debug\netcoreapp3.1\FuncoesParaStrings.deps.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\FuncoesParaStrings\FuncoesParaStrings\bin\Debug\netcoreapp3.1\FuncoesParaStrings.runtimeconfig.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\FuncoesParaStrings\FuncoesParaStrings\bin\Debug\netcoreapp3.1\FuncoesParaStrings.runtimeconfig.dev.json
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\FuncoesParaStrings\FuncoesParaStrings\bin\Debug\netcoreapp3.1\FuncoesParaStrings.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\FuncoesParaStrings\FuncoesParaStrings\bin\Debug\netcoreapp3.1\FuncoesParaStrings.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\FuncoesParaStrings\FuncoesParaStrings\obj\Debug\netcoreapp3.1\FuncoesParaStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\FuncoesParaStrings\FuncoesParaStrings\obj\Debug\netcoreapp3.1\FuncoesParaStrings.AssemblyInfoInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\FuncoesParaStrings\FuncoesParaStrings\obj\Debug\netcoreapp3.1\FuncoesParaStrings.AssemblyInfo.cs
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\FuncoesParaStrings\FuncoesParaStrings\obj\Debug\netcoreapp3.1\FuncoesParaStrings.csproj.CoreCompileInputs.cache
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\FuncoesParaStrings\FuncoesParaStrings\obj\Debug\netcoreapp3.1\FuncoesParaStrings.dll
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\FuncoesParaStrings\FuncoesParaStrings\obj\Debug\netcoreapp3.1\FuncoesParaStrings.pdb
+C:\Users\raphaelf9\Documents\EngenhariaDeSoftware\04-C_SHARP\01-BASICO\Codigos\FuncoesParaStrings\FuncoesParaStrings\obj\Debug\netcoreapp3.1\FuncoesParaStrings.genruntimeconfig.cache
